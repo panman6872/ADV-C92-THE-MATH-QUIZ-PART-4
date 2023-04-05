@@ -1,0 +1,39 @@
+body {
+    background: red;
+}
+
+.login_div1,
+.login_div2 {
+    background: white;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+
+
+#player1_name,
+#player2_name {
+    display: inline-block;
+    margin-left: 20px;
+    color: black;
+}
+
+#number_1,
+#number_2 {
+    letter-spacing: 5px;
+}
+
+#output {
+    background-image:url("https://media.istockphoto.com/id/1339908748/vector/new-realistic-neon-sign-of-quiz-frame-logo-for-decoration-and-covering-on-the-dark-wall.jpg?s=612x612&w=0&k=20&c=Qn97UPTD2E-MXDC9khiDW9vQglFtjNCFvCtF0EkiDP8=");
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    background-size:fill;
+    background-position:center ;
+    text-align: center;
+    background-repeat: no-repeat;
+    size: 30%;
+    color: #5603bd;
+    text-size-adjust:25;
+}
